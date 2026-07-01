@@ -3,4 +3,19 @@ header {
     color: #ba65ff;
     text-align: center;
     max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
+
+main{
+    background-color: #f872cb;
+    color: #288cff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+ img{
+    width: 80px;
+    height: 80px;
+ }
